@@ -1,5 +1,5 @@
 ##
-# This program takes a list of elevations of town plots adn given a
+# This program takes a list of elevations of town plots and given a
 # predicted elevation rise of the river returns a grid layout that shows
 # the coordinates of unsubmerged sections of the town, and * for submerged
 # sections of the town
