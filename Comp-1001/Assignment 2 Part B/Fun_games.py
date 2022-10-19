@@ -1,5 +1,5 @@
 ##
-# This program simulates to games from Centauros; Cornhole and Guessing medals
+# This program simulates two games from Centauros; Cornhole and Guessing medals
 #
 ##
 
