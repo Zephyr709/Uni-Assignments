@@ -1,0 +1,20 @@
+1111,Batman,Intelligence,40
+1112,Ant Man,Size Shifter,20
+1113,Mystique,Shape Shifter,15
+1114,Scarlet Witch,Telekinesis,25
+1115,Iron Man,Intelligence,35
+1116,Hawkeye,Archer,30
+1117,Hulk,Strength,45
+1118,Captain America,Speed,50
+1119,SpiderMan,Spidey Sense,40
+1120,Metamorpho,Fly,28
+1121,Okoye,Martial Arts,20
+1122,Thor,Strength,25
+1123,Professor X,Telepathy,20
+1124,Black Widow,Endurance,10
+1125,Blade,Vampire Like,12
+1126,Black Panther,Intelligence,20
+1127,Wolverine,Enhanced Senses,35
+1128,Deadpool,Invincibility,12
+1129,Superman,Vision Powers,50
+1130,Vision,Computer Brain,10
